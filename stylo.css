@@ -1,0 +1,33 @@
+hr {
+  background-color: none;
+  border-style:none;
+  border-top-style: dashed;
+  border-color: DarkCyan;
+  border-width: 5px;
+  width: 1000px;
+}
+#dotted{
+  border-top-style: dotted;
+}
+.georgia{
+  font-family: Georgia,serif;
+}
+body{
+  background-color: DarkCyan;
+}
+.orange{
+  color: orange;
+  border-color: orange;
+}
+.Luminari{
+  font-family: Luminari,fantasy;
+}
+p{
+  color: orange;
+}
+h2,blockquote{
+  color:FireBrick;
+}
+h3{
+  color:OrangeRed;
+}
